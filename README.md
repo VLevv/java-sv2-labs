@@ -1,1 +1,1 @@
-Struktúraváltó feladatok
+StruktÃºravÃ¡ltÃ³ feladatok
