@@ -22,23 +22,23 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 
 ## Típusok és operátorok
 
-* [ ] [Literálok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709837-literalok)
-* [ ] Literálok gyakorlati feladat
-* [ ] [Egyszerű típusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709846-egyszeru-tipusok)
-* [ ] Egyszerű típusok gyakorlati feladat
-* [ ] [Karakter videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993708-karakter)
-* [ ] Karakter gyakorlati feladat
-* [ ] [Felsorolásos típus videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709804-felsorolasos-tipus)
-* [ ] Felsorolásos típus gyakorlati feladat
-* [ ] [Operátorok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709858-operatorok)
-* [ ] Operátorok gyakorlati feladat 
-* [ ] Oszthatóság vizsgálata gyakorlati feladat [(Szöveges anyag itt)](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/texts/28278683-oszthatosag-vizsgalata)
-* [ ] [Egész és lebegőpontos számok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709854-egesz-es-lebegopontos-szamok)
-* [ ] Egész és lebegőpontos számok gyakorlati feladat
-* [ ] [Típuskonverzió videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709762-tipuskonverzio)
-* [ ] Típuskonverzió gyakorlati feladat
-* [ ] [Konverziók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993726-konverziok)
-* [ ] Konverziók gyakorlati feladat
+* [X] [Literálok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709837-literalok)
+* [X] Literálok gyakorlati feladat
+* [X] [Egyszerű típusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709846-egyszeru-tipusok)
+* [X] Egyszerű típusok gyakorlati feladat
+* [X] [Karakter videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993708-karakter)
+* [X] Karakter gyakorlati feladat
+* [X] [Felsorolásos típus videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709804-felsorolasos-tipus)
+* [X] Felsorolásos típus gyakorlati feladat
+* [X] [Operátorok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709858-operatorok)
+* [X] Operátorok gyakorlati feladat 
+* [X] Oszthatóság vizsgálata gyakorlati feladat [(Szöveges anyag itt)](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/texts/28278683-oszthatosag-vizsgalata)
+* [X] [Egész és lebegőpontos számok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709854-egesz-es-lebegopontos-szamok)
+* [X] Egész és lebegőpontos számok gyakorlati feladat
+* [X] [Típuskonverzió videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709762-tipuskonverzio)
+* [X] Típuskonverzió gyakorlati feladat
+* [X] [Konverziók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993726-konverziok)
+* [X] Konverziók gyakorlati feladat
 
 ## Részletesen a szöveges típusról
 
@@ -58,11 +58,11 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 
 ## Konzultációk
 
-* [ ] 2021-10-25 konzultáció részvétel/videó
-* [ ] 2021-10-25 konzultáció gyakorlati feladat
-* [ ] 2021-10-26 konzultáció részvétel/videó
-* [ ] 2021-10-26 konzultáció gyakorlati feladat
-* [ ] 2021-10-28 konzultáció részvétel/videó
-* [ ] 2021-10-28 konzultáció gyakorlati feladat
-* [ ] 2021-10-29 konzultáció részvétel/videó
-* [ ] 2021-10-29 konzultáció gyakorlati feladat
+* [X] 2021-10-25 konzultáció részvétel/videó
+* [X] 2021-10-25 konzultáció gyakorlati feladat
+* [X] 2021-10-26 konzultáció részvétel/videó
+* [X] 2021-10-26 konzultáció gyakorlati feladat
+* [X] 2021-10-28 konzultáció részvétel/videó
+* [X] 2021-10-28 konzultáció gyakorlati feladat
+* [X] 2021-10-29 konzultáció részvétel/videó
+* [X] 2021-10-29 konzultáció gyakorlati feladat
