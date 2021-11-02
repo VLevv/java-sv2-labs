@@ -42,19 +42,19 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 
 ## Részletesen a szöveges típusról
 
-* [ ] [String alapok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710528-string-alapok)
-* [ ] String alapok gyakorlati feladat
-* [ ] [Konkatenáció videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710386-konkatenacio)
-* [ ] Konkatenáció gyakorlati feladat
-* [ ] [Főbb String metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710533-fobb-string-metodusok)
-* [ ] Főbb String metódusok gyakorlati feladat
-* [ ] [StringBuilder videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710420-stringbuilder)
-* [ ] StringBuilder gyakorlati feladat
-* [ ] Szövegek elválasztása vesszővel gyakorlati feladat [(Szöveges anyag itt)](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/texts/28335421-szovegek-elvalasztasa-vesszovel)
-* [ ] [Scanner videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710394-scanner)
-* [ ] Scanner gyakorlati feladat
-* [ ] [Szöveg formázása printf-fel videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710510-szoveg-formazasa-printf-fel)
-* [ ] Szöveg formázása printf-fel gyakorlati feladat
+* [X] [String alapok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710528-string-alapok)
+* [X] String alapok gyakorlati feladat
+* [X] [Konkatenáció videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710386-konkatenacio)
+* [X] Konkatenáció gyakorlati feladat
+* [X] [Főbb String metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710533-fobb-string-metodusok)
+* [X] Főbb String metódusok gyakorlati feladat
+* [X] [StringBuilder videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710420-stringbuilder)
+* [X] StringBuilder gyakorlati feladat
+* [X] Szövegek elválasztása vesszővel gyakorlati feladat [(Szöveges anyag itt)](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/texts/28335421-szovegek-elvalasztasa-vesszovel)
+* [X] [Scanner videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710394-scanner)
+* [X] Scanner gyakorlati feladat
+* [X] [Szöveg formázása printf-fel videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710510-szoveg-formazasa-printf-fel)
+* [X] Szöveg formázása printf-fel gyakorlati feladat
 
 ## Konzultációk
 
